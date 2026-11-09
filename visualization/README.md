@@ -36,9 +36,7 @@ python run_visualization.py --subject e14155s3_P69120 --slice 85
 
 ---
 
-## Mentor Presentation Talking Points
-
-When presenting to your Capstone mentor, structure your explanation into 4 steps:
+## Important Points
 
 ### 1. Data Representation & MRI Acquisition Physics
 - **Complex $k$-Space**: The scanner records raw radiofrequency signals in the spatial frequency domain ($k$-space). Each acquisition matrix is shape `(N_slices, 256, 256, 2)` where the last dimension holds **Real** and **Imaginary** components:

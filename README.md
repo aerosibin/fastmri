@@ -8,6 +8,8 @@ Trained Models:
 
 Dataset Used: [CC359 dataset](https://drive.google.com/drive/folders/1TJIUYGfPznnj_ZLUtVXY8LdA9e6SJCmE?usp=sharing)
 
+---
+
 ## 1. System Overview & Mathematics
 
 This codebase directly implements the system architecture specified in **Chapters 3 & 4 of the Capstone Report**:
@@ -97,6 +99,8 @@ python evaluate.py --checkpoint checkpoints/best_model.pt --acceleration 4.0
 ```
 Outputs are saved into [`reports/evaluation_results/`](file:///c:/SNUC/Capstone/calgary-campinas/reports/evaluation_results/).
 
+---
+
 ## Acknowledgements
 
 We would like to express our sincere gratitude to the creators and maintainers of the **Calgary-Campinas Brain MR Dataset (CC359)** for providing this valuable dataset for research in Magnetic Resonance Imaging (MRI).
@@ -106,3 +110,5 @@ The CC359 dataset was utilized for training and evaluating the MRI reconstructio
 We acknowledge and appreciate their contribution to the field of medical imaging research.
 
 **GitHub URL:** [Calgary-Campinas Brain MR Dataset (CC359)](https://github.com/emmetaobrien/calgary-campinas/tree/main)
+
+---
