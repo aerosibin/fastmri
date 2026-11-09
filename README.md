@@ -1,11 +1,10 @@
 # Accelerated MRI Reconstruction: Residual Complex U-Net
-### Capstone Project: Fast MRI (Phase 1 - Review 3)
-**Institution:** Shiv Nadar University - Chennai  
-**Department:** Computer Science and Engineering  
-**Students:** Sibin Paulraj S (23011102096), U Pranov Shanker (23011102110)  
-**Project Guide:** Dr. S. Vidhusha, Associate Professor  
-
 ---
+Trained Models:
+1. [Residual Complex U-Net R=5x] (https://drive.google.com/drive/folders/1kNydNMfaqs2RE7FIj1VGPgIJd3UXDGDj?usp=sharing)
+2. [Unrolled Physics-Informed Cascade Net] (https://drive.google.com/drive/folders/1kNydNMfaqs2RE7FIj1VGPgIJd3UXDGDj?usp=sharing)
+
+Datset Used: [CC359 dataset](https://drive.google.com/drive/folders/1TJIUYGfPznnj_ZLUtVXY8LdA9e6SJCmE?usp=sharing)
 
 ## 1. System Overview & Mathematics
 

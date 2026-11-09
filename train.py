@@ -218,7 +218,7 @@ def main():
 
     print("=" * 75)
     print(" Accelerated MRI Reconstruction: Residual Complex U-Net Training")
-    print(f" Capstone Phase 1 - Review 3 (Dr. S. Vidhusha)")
+    print(f" Capstone Phase 1 ")
     print("=" * 75)
     print(f" Hardware Device     : {device} ({torch.cuda.get_device_name(0) if device.type == 'cuda' else 'CPU'})")
     print(f" Acceleration Factor : R={args.acceleration:.1f}x (ACS={args.center_fraction*100:.1f}%, Mask={args.mask_type})")
