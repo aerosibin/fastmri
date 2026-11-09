@@ -1,4 +1,4 @@
-# Accelerated MRI Reconstruction: Residual Complex U-Net
+# FastMRI: Accelerated MRI Reconstruction
 ---
 Trained Models:
 1. [Residual Complex U-Net R=5x](https://drive.google.com/drive/folders/1kNydNMfaqs2RE7FIj1VGPgIJd3UXDGDj?usp=sharing)
