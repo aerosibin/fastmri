@@ -1,10 +1,10 @@
 # FastMRI: Accelerated MRI Reconstruction
 ---
 Trained Models:
-1. [Residual Complex U-Net R=5x](https://drive.google.com/drive/folders/1kNydNMfaqs2RE7FIj1VGPgIJd3UXDGDj?usp=sharing)
+1. [Residual Complex U-Net (R=5x)](https://drive.google.com/drive/folders/1kNydNMfaqs2RE7FIj1VGPgIJd3UXDGDj?usp=sharing)
 2. [Unrolled Physics-Informed Cascade Net](https://drive.google.com/drive/folders/1kNydNMfaqs2RE7FIj1VGPgIJd3UXDGDj?usp=sharing)
 
-Datset Used: [CC359 dataset](https://drive.google.com/drive/folders/1TJIUYGfPznnj_ZLUtVXY8LdA9e6SJCmE?usp=sharing)
+Dataset Used: [CC359 dataset](https://drive.google.com/drive/folders/1TJIUYGfPznnj_ZLUtVXY8LdA9e6SJCmE?usp=sharing)
 
 ## 1. System Overview & Mathematics
 
