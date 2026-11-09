@@ -1,5 +1,7 @@
 # FastMRI: Accelerated MRI Reconstruction
 ---
+[![Protected by Gitleaks](https://img.shields.io/badge/protected%20by-gitleaks-blue)](https://github.com/gitleaks/gitleaks)
+
 Trained Models:
 1. [Residual Complex U-Net (R=5x)](https://drive.google.com/drive/folders/1kNydNMfaqs2RE7FIj1VGPgIJd3UXDGDj?usp=sharing)
 2. [Unrolled Physics-Informed Cascade Net](https://drive.google.com/drive/folders/1kNydNMfaqs2RE7FIj1VGPgIJd3UXDGDj?usp=sharing)
@@ -95,3 +97,12 @@ python evaluate.py --checkpoint checkpoints/best_model.pt --acceleration 4.0
 ```
 Outputs are saved into [`reports/evaluation_results/`](file:///c:/SNUC/Capstone/calgary-campinas/reports/evaluation_results/).
 
+## Acknowledgements
+
+We would like to express our sincere gratitude to the creators and maintainers of the **Calgary-Campinas Brain MR Dataset (CC359)** for providing this valuable dataset for research in Magnetic Resonance Imaging (MRI).
+
+The CC359 dataset was utilized for training and evaluating the MRI reconstruction models developed in this project. We gratefully acknowledge the dataset contributors for making this resource available to the research community and enabling advancements in deep learning-based MRI reconstruction.
+
+We acknowledge and appreciate their contribution to the field of medical imaging research.
+
+**GitHub URL:** [Calgary-Campinas Brain MR Dataset (CC359)](https://github.com/emmetaobrien/calgary-campinas/tree/main)
